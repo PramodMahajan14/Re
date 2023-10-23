@@ -42,6 +42,7 @@ then user will be verified.And redirect to client side for showing the verificat
    ```
     GET http://localhost:4000/v1/api/access
 
+
 4 Profile : must add accesstoken in header section, then call 
   ```
     GET http://localhost:4000/v1/api/profile
