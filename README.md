@@ -63,7 +63,7 @@ then user will be verified.And redirect to client side for showing the verificat
   ```
     GET http://localhost:4000/v1/api/updatetask/:id/:userId
     
-7 DELETETASK 
+9 DELETETASK 
   ```
     GET http://localhost:4000/v1/api/removetask/:id
     
