@@ -1,4 +1,21 @@
+# Task Management Rest -API
 
+This is a RESTful API based on Node.js and MongoDB, following the MVC pattern i.e. Model View Controller.
+Mongoose is used for Database transactions which is an elegant solution to mongodb object modeling for node.js.
+The application is production ready
+
+## Getting Started
+
+Follow these steps to get this API up and running on your local machine.
+
+### Prerequisites
+
+Before you begin, make sure you have the following software installed:
+
+- [Node.js](https://nodejs.org/) - JavaScript runtime
+- [npm](https://www.npmjs.com/) - Node Package Manager
+
+### Installation and  Configuration 
 1. Clone this repository to your local machine:
 
    ```bash
